@@ -1,0 +1,11 @@
+.active {
+	color: #fff;
+	text-decoration: none;
+}
+
+.active #navlink {
+    background-color: #383838;
+}
+.active #navlink .icon {
+    color:white;
+}
